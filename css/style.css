@@ -1,0 +1,36 @@
+.bagk_cntrl{
+	background-image: url(slider1.jpg);
+	height: 700px;
+	
+}
+
+
+ul li a:last-child{
+	padding-right: 0px!important;
+}
+
+.menu ul li a{
+	padding-right: 28px !important;
+	font-size:16px ;
+	font-weight:400 ;
+}
+
+
+ul li a:hover{
+	color:blue!important;
+}
+
+.img_height_g{
+	height: 600px !important;
+}
+
+
+.carousel-indicators [data-bs-target] {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.icon_c a i:hover{
+	color: blue;
+}
